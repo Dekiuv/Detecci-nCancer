@@ -1,7 +1,5 @@
 # Ignorar la carpeta con datos
-Dataset/
 *.pkl
-*.csv
 
 # Ignorar archivos temporales de Python
 __pycache__/
