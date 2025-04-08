@@ -1,0 +1,13 @@
+# Ignorar la carpeta con datos
+Dataset/
+*.pkl
+*.csv
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de entorno virtual
+.env
+.venv/
+*.env
