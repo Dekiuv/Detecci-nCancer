@@ -1,4 +1,4 @@
-id,Sexo,Age,Family history,smoke,alcohol,obesity,diet,Screening_History,Healthcare_Access,Survival_Prediction
+id,sex,age,family_history,smoke,alcohol,obesity,diet,screening_history,healthcare_access,survival_prediction
 1,M,63,No,Yes,Yes,Normal,Moderate,Never,High,Yes
 2,M,64,Yes,Yes,No,Normal,Low,Irregular,Moderate,Yes
 3,F,50,No,Yes,No,Normal,Moderate,Regular,Moderate,Yes
