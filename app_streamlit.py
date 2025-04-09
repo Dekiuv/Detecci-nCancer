@@ -15,7 +15,7 @@ st.write("Sube una imagen para predecir si el tumor es **benigno** o **maligno**
 img_size = (224, 224)
 
 # Cargar modelo
-model = load_model("modelo_mobilenet_colon.keras")
+model = load_model("model\modelo_mobilenet_colon.keras")
 
 # ========================
 # Procesamiento de imagen

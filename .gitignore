@@ -1,5 +1,4 @@
 # Ignorar la carpeta con datos
-*.pkl
 /Image
 
 # Ignorar archivos temporales de Python
